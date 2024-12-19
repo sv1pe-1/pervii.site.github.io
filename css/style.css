@@ -1,0 +1,88 @@
+.title{
+   padding: 30px;
+   text-align: center;
+   font-size: 50px;
+
+}
+span{
+   color: #ff0000;
+   font-size: 40px;
+}
+
+.contact{
+   display: flex;
+   justify-content: center;
+   align-content: center;
+
+}
+.contact img{
+   max-width: 700px;
+}
+
+.main{
+   display: flex;
+   justify-content: center;
+   align-content: center;
+}
+.main img{
+max-width: 600px;
+
+}
+.main-info{
+   max-width: 500px;
+}
+
+.main-info ul{
+   padding-left: 17px;
+}
+
+.main-info a {
+   font-size: 20px;
+   color:#ff0800;
+   
+   text-decoration: none;
+}
+body{
+   background-color: #8400ff;
+}
+
+.form {
+   max-width: 420px;
+   margin: 100px auto; /* Увеличьте отступ сверху, если нужно */
+   display: flex;
+   flex-direction: column;
+}
+
+.form h2 {
+   text-align: center;
+   font-size: 35px;
+}
+
+.form input,
+.form textarea {
+   font-style: italic;
+   padding: 10px;
+   font-size: 23px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   border: 2px solid #7911be;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.form button { 
+   background-color: #ff0000;
+   padding: 16px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   color: white;
+   border-color: #F16B67;
+   text-transform: uppercase;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+}
+         
+.contact-info img{
+   max-width: 15px;
+}
+
+
